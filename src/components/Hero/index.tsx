@@ -2,7 +2,7 @@ import * as S from './styles'
 
 const Hero = () => (
   <S.Fundo>
-    <S.Container>
+    <S.Container className="container">
       <S.Titulo>
         As melhores vagas para tecnologia, design e artes visuais.
       </S.Titulo>
